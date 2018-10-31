@@ -21,6 +21,9 @@ EditorBuildSettings:
     path: Assets/Scene/JobDisplay.unity
     guid: 7a848158ba64dce4a8b39cfd3ef58413
   - enabled: 1
-    path: Assets/Scene/TimeSeting.unity
+    path: Assets/Scene/TimeSetting.unity
     guid: c0ecd235ea05d09409368c51d25b702d
+  - enabled: 1
+    path: Assets/Scene/ThemeSetting.unity
+    guid: 00770635decff7249a72f58bccf6a67e
   m_configObjects: {}

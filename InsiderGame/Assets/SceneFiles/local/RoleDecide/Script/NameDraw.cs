@@ -63,7 +63,7 @@ public class NameDraw : MonoBehaviour
             }
             else
             {
-                SceneManager.LoadScene("TimeSeting");
+                SceneManager.LoadScene("TimeSetting");
             }
         }
     }

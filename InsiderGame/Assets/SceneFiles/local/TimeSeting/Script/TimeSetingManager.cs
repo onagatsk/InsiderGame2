@@ -13,7 +13,7 @@ public class TimeSetingManager : MonoBehaviour
     public InputField inputField;
 
     private string S_SetTime;
-    public int SetTime;
+    public static int SetTime;
 
     void Start()
     {
@@ -80,5 +80,10 @@ public class TimeSetingManager : MonoBehaviour
         {
             SetTime++;
         }
+    }
+
+    public void DecisionButtonDown()
+    {
+        SceneManager.LoadScene("ThemeSetting"); 
     }
 }
