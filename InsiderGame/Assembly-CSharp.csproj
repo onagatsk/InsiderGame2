@@ -53,6 +53,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\SceneFiles\local\GameMain\Script\GameMainManager.cs" />
+     <Compile Include="Assets\SceneFiles\local\GameStart\Script\GameStartManager.cs" />
+     <Compile Include="Assets\SceneFiles\local\insiderConfirmation\Script\insiderConfirmationManager.cs" />
+     <Compile Include="Assets\SceneFiles\local\insiderConfirmation2\Prefab\insiderConfirmation2Manager.cs" />
      <Compile Include="Assets\SceneFiles\local\JobDisplay\Script\JobDisplay.cs" />
      <Compile Include="Assets\SceneFiles\local\NameSet\Script\ButtonChenge.cs" />
      <Compile Include="Assets\SceneFiles\local\NameSet\Script\NameInputField.cs" />
@@ -61,6 +65,7 @@
      <Compile Include="Assets\SceneFiles\local\RoleDecide\Script\NameDraw.cs" />
      <Compile Include="Assets\SceneFiles\local\RoleDecide\Script\RoleDecideManager.cs" />
      <Compile Include="Assets\SceneFiles\local\SelectTitle\Script\SceneSelectTitle.cs" />
+     <Compile Include="Assets\SceneFiles\local\ThemeSetting\Script\ThemeSettingManager.cs" />
      <Compile Include="Assets\SceneFiles\local\TimeSeting\Script\TimeSetingManager.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>C:/Users/翁長駿圭/Documents/インサイダーゲーム/InsiderGame/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>

@@ -26,4 +26,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scene/ThemeSetting.unity
     guid: 00770635decff7249a72f58bccf6a67e
+  - enabled: 1
+    path: Assets/Scene/insiderConfirmation.unity
+    guid: 100bcccaeba349642b972297dcc5ca8f
+  - enabled: 1
+    path: Assets/Scene/insiderConfirmation2.unity
+    guid: f31d49cce32bef84f8aed85a55a58d4b
+  - enabled: 1
+    path: Assets/Scene/GameStart.unity
+    guid: e7dcb23e4a734f042b1121db2443017a
+  - enabled: 1
+    path: Assets/Scene/GameMain.unity
+    guid: 32e520a8a67b4b645863b7956b09d1b6
   m_configObjects: {}

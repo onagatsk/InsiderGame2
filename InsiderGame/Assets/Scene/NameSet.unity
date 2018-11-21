@@ -964,17 +964,17 @@ Prefab:
     - target: {fileID: 114415802782851978, guid: 68616ce01f615c8448efd0c984ba78f1,
         type: 2}
       propertyPath: m_ContentType
-      value: 4
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 114415802782851978, guid: 68616ce01f615c8448efd0c984ba78f1,
         type: 2}
       propertyPath: m_KeyboardType
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 114415802782851978, guid: 68616ce01f615c8448efd0c984ba78f1,
         type: 2}
       propertyPath: m_CharacterValidation
-      value: 3
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 68616ce01f615c8448efd0c984ba78f1, type: 2}
@@ -1840,7 +1840,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Provisional: 0
-  PlayerName: []
   inputfield:
   - {fileID: 599189248}
   - {fileID: 846461598}
